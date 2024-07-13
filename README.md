@@ -1,0 +1,1 @@
+This Python script automates data extraction from the Amazon ecommerce website using Selenium. It retrieves product information such as names, prices, descriptions, ratings, and reviews, facilitating data-driven insights and analysis."
